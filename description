@@ -1,0 +1,14 @@
+Name: OrbStab
+Title: Finite orbit-stabilizer theorem
+Author: Robert Kam
+Email: rkam2001@hotmail.com
+Homepage: none
+Institution: San Jose State University
+Address: One Washington Square, San Jose, CA 95112, USA
+Date: January 5, 2008
+Description: Finite orbit-stabilizer theorem, based on Rahbar Virk's lecture notes.  A large portion of the work was a simplified version of the inclusion-exclusion principle.  Requires Loic Pottier's Algebra contribution, and Jasper Stein's Linear Algebra contribution.
+Url: none
+License: GNU Lesser Public License
+Keywords: orbit, stabilizer, inclusion-exclusion
+Version: 8.1pl3 (Dec. 2007)
+Require: algebra, LinAlg
