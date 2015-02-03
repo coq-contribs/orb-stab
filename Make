@@ -1,4 +1,2 @@
 -R . OrbStab
--R ../../Sophia-Antipolis/Algebra Algebra
--R ../../Nijmegen/LinAlg LinAlg
 orbstab.v
