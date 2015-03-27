@@ -18,13 +18,13 @@ You should have received a copy of the GNU Lesser General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ******************************************************************************)
 
-Require Export Group_util.
-Require Export Fpart2.
-Require Export Parts3.
-Require Export Fmap.
-Require Export seq_set_facts.
-Require Export has_n_elements.
-Require Export finite_subsets.
+From Algebra Require Export Group_util.
+From Algebra Require Export Fpart2.
+From Algebra Require Export Parts3.
+From Algebra Require Export Fmap.
+From LinAlg Require Export seq_set_facts.
+From LinAlg Require Export has_n_elements.
+From LinAlg Require Export finite_subsets.
 Require Export ClassicalDescription.
 
 Fixpoint nsum (n:Nat) {struct n} : seq n Nat -> Nat :=
