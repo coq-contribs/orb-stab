@@ -1,6 +1,6 @@
 [submodule "algebra"]
 	path = algebra
-	url = https://scm.gforge.inria.fr/anonscm/git/coq-contribs/algebra.git
+	url = https://github.com/coq-contribs/algebra.git
 [submodule "lin-alg"]
 	path = lin-alg
-	url = https://scm.gforge.inria.fr/anonscm/git/coq-contribs/lin-alg.git
+	url = https://github.com/coq-contribs/lin-alg.git
