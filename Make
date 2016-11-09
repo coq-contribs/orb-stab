@@ -1,3 +1,3 @@
--R . OrbStab -R algebra Algebra -R lin-alg LinAlg
+-R . OrbStab
 
 orbstab.v

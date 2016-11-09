@@ -1,6 +1,0 @@
-[submodule "algebra"]
-	path = algebra
-	url = https://github.com/coq-contribs/algebra.git
-[submodule "lin-alg"]
-	path = lin-alg
-	url = https://github.com/coq-contribs/lin-alg.git
